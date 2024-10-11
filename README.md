@@ -7,13 +7,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&repeat=false&width=500&height=100&lines=About+me+~)](https://git.io/typing-svg)
 
+Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
+
 • 🎓Computer Science Student at Dom Bosco Catholic University, Brazil. 
 <br>
 • 👱🏻‍♀️18 y.
 <br>
 • 💼Looking for interships.
 <br>
-• 
+
 
 
 
