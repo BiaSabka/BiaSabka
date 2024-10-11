@@ -7,17 +7,12 @@
 </div>
 
 ### Currently Learning:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782269952100/html_2.png?ex=6709fddb&is=6708ac5b&hm=6e668ac070512ac678f321786f76dedc581c914fa03d066b7e51027a1fe44030&">
+  <img align="center" alt="Bia-CSS3" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782605369394/social.png?ex=6709fddb&is=6708ac5b&hm=400b92341477d3e25d1a2083c12944ba79268f981155d5af24fdf876ff1278d1&">
+  <img align="center" alt="Bia-Python" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782827663360/python_1.png?ex=6709fddb&is=6708ac5b&hm=89fa14e6bdd63a1cae377bc06f870d4ab75b8a32d7478c311dd7789a9863b9b1&">
+  <img align="center" alt="Bia-Javascript" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157781515112499/java-script_1.png?ex=6709fddb&is=6708ac5b&hm=77770c7a5f1ec72102bcc3769ced599d6b30dfc856ffce06118f3ccb54c9f3f5&">
+  <img align="center" alt="Bia-C" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157781804515328/letter-c_1.png?ex=6709fddb&is=6708ac5b&hm=75072aaaa18c9c7a1a092201962c74b75e8f85eed6d4f96ff8fc7a7bff5842eb&">
 </div>
 
 
