@@ -2,6 +2,23 @@
 
 <div align="center" >
    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&repeat=false&width=500&height=100&lines=About+me+~)](https://git.io/typing-svg)
+
+• 🎓Computer Science Student at Dom Bosco Catholic University, Brazil. 
+<br>
+• 👱🏻‍♀️18 y.
+<br>
+• 💼Looking for interships.
+<br>
+• 
+
+
+
+<div align="center" >
+   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/BiaSabka?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&format=svg&weeks=30&theme=purple&widget_size=medium&dark=true)
 
 </div>
