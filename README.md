@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://cdn.discordapp.com/attachments/1104081555909001388/1292371127636852807/github-header-image900.png?ex=67096ca7&is=67081b27&hm=52fb1fe245c72b0a55b70dd4494a3b571243bfe5a65dbeb43f51b0bc89bd0a60&"/>
+<img width=100% bottom=50px src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20background%20start.png"/>
 
 <div align="center" >
    
@@ -52,7 +52,7 @@ Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
 </div>
 
 
-<img width=100% bottom=50px src="https://cdn.discordapp.com/attachments/1237248711298388079/1294136454297157684/github-header-image_1.png?ex=6709e9fe&is=6708987e&hm=ff8330af4173f22d8874ad5c16ec8922c58bebf428e0145f6023dc6464f5f954&"/>
+<img width=100% bottom=50px src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20backgound%20end.png"/>
 
 
 
