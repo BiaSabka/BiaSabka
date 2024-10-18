@@ -5,6 +5,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 </div>
 
+
+<div align="center" >
+   
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BiaSabka&show_icons=true&theme=radical&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BiaSabka&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BiaSabka&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+</picture>
+   
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&repeat=false&width=500&height=100&lines=About+me+~)](https://git.io/typing-svg)
 
 Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
