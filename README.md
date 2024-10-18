@@ -27,10 +27,10 @@ Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
 
 ### Currently Learning:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782269952100/html_2.png?ex=6709fddb&is=6708ac5b&hm=6e668ac070512ac678f321786f76dedc581c914fa03d066b7e51027a1fe44030&">
-  <img align="center" alt="Bia-CSS3" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782605369394/social.png?ex=6709fddb&is=6708ac5b&hm=400b92341477d3e25d1a2083c12944ba79268f981155d5af24fdf876ff1278d1&">
-  <img align="center" alt="Bia-Python" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157782827663360/python_1.png?ex=6709fddb&is=6708ac5b&hm=89fa14e6bdd63a1cae377bc06f870d4ab75b8a32d7478c311dd7789a9863b9b1&">
-  <img align="center" alt="Bia-Javascript" height="30" width="40" src="https://cdn.discordapp.com/attachments/1237248711298388079/1294157781515112499/java-script_1.png?ex=6709fddb&is=6708ac5b&hm=77770c7a5f1ec72102bcc3769ced599d6b30dfc856ffce06118f3ccb54c9f3f5&">
+  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20html%20icon.png">
+  <img align="center" alt="Bia-CSS3" height="30" width="40" src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20css3%20icon.png">
+  <img align="center" alt="Bia-Python" height="30" width="40" src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20python%20icon.png">
+  <img align="center" alt="Bia-Javascript" height="30" width="40" src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20java-script%20icon.png">
   <img align="center" alt="Bia-C" height="30" width="40" src="https://github.com/BiaSabka/BiaSabka/blob/main/bia's%20C%20icon%20.png">
 </div>
 
