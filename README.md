@@ -2,7 +2,7 @@
 
 <div align="center" >
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=250&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 </div>
 
 </div>
@@ -13,7 +13,15 @@ Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
 <br>
 • 👱🏻‍♀️19 y.
 <br>
-• 💼Looking for interships.
+• 💼Currently interning in: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰ Analysis and Development of Databases at the Municipal Government of Campo Grande/MS
+         <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰ PET-Saúde Digital Program
+         <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰ Transform Project - Formatting and redirecting cellphones to donate to communities.
+         <br>
+• 🌎Looking for internships around the world.
+
 <br>
 
 <p align="center">
@@ -29,6 +37,9 @@ Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/BiaSabka?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&format=svg&weeks=30&theme=purple&widget_size=medium&dark=true)
+
+<br>
+
 
 
 
