@@ -11,7 +11,7 @@ Hi! I'm Bianca Sabka de Queiroz, passionate about coding.
 
 • 🎓Computer Science Student at Dom Bosco Catholic University, Brazil. 
 <br>
-• 👱🏻‍♀️19 y.
+• 👱🏻‍♀️20 y.
 <br>
 • 💼Currently interning in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰ Analysis and Development of Databases at the Municipal Government of Campo Grande/MS
